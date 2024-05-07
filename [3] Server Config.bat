@@ -1,0 +1,1 @@
+start %AppData%\..\LocalLow\SKS\TheForestDedicatedServer\ds
